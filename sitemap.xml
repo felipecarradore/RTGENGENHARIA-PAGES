@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.rtgengenharia.net/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.rtgengenharia.net/bim</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.rtgengenharia.net/projetos</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.rtgengenharia.net/servicos</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.rtgengenharia.net/contato</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.rtgengenharia.com/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/compatibilizacao-bim/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/gerenciamento-de-projetos/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/servicos/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/bim/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/produto/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/projetos/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/contato/</loc></url>
+  <url><loc>https://www.rtgengenharia.com/politica-de-privacidade/</loc></url>
 </urlset>
